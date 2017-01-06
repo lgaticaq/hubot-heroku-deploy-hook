@@ -240,13 +240,13 @@ coffee-script@1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.6.3.tgz#6355d32cf1b04cdff6b484e5e711782b2f0c39be"
 
-coffee-script@>=1.6.2, coffee-script@~1.11.0:
+coffee-script@>=1.6.2, coffee-script@^1.12.2:
+  version "1.12.2"
+  resolved "https://registry.npmjs.org/coffee-script/-/coffee-script-1.12.2.tgz#0d4cbdee183f650da95419570c4929d08ef91376"
+
+coffee-script@~1.11.0:
   version "1.11.1"
   resolved "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.11.1.tgz#bf1c47ad64443a0d95d12df2b147cc0a4daad6e9"
-
-coffee-script@^1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.12.0.tgz#8ae1181fb37ee9312c09cf2bf0b754dfa1525fba"
 
 coffeelint:
   version "1.16.0"
@@ -622,9 +622,9 @@ fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
 
-generate-changelog:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/generate-changelog/-/generate-changelog-1.0.2.tgz#b26116d531a6ac4536a90ef5634121a55088d0eb"
+generate-changelog@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/generate-changelog/-/generate-changelog-1.1.0.tgz#2a70badc4e47a7cb5e1145194e5cb5acf4ed06e1"
   dependencies:
     bluebird "^3.0.6"
     commander "^2.9.0"
