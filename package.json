@@ -1,6 +1,6 @@
 {
   "name": "hubot-heroku-deploy-hook",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A hubot script to get deploy hook from heroku",
   "main": "src",
   "scripts": {
